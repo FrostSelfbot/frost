@@ -1,0 +1,12 @@
+asyncio
+discord.py-self
+requests
+printy
+pyfiglet
+faker
+psutil
+discum
+colorama
+uwuify
+brainfuckery
+zalgo-text
